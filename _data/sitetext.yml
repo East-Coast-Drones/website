@@ -1,21 +1,21 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Expert drone pilots
+    text: DRONE FOOTAGE FOR REAL ESTATE
     button: Tell Me More
     buttonlink: "#services"
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text:
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Video"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Images"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Finished Product"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
