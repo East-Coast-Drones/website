@@ -1,7 +1,7 @@
 header:
-    title: Real Estate Drone Footage
-    sub_title: Serving Virginia and North Carolina
-    button: Tell Me More
+    title: "Real Estate Drone Footage"
+    sub_title: "Serving Virginia and North Carolina"
+    button: "Tell Me More"
     buttonlink: "#services"
 
 services:
@@ -9,10 +9,10 @@ services:
     text: "Some of our available services include:"
     section: services
     list:
-      - title: "Arial Videography"
+      - title: "Aerial Videography"
         desc: "Tail prosciutto frankfurter pig, ham hock pork belly turkey ground round burgdoggen ham doner ribeye pork. Sirloin beef buffalo, cupim kielbasa frankfurter t-bone."
         icon: fas fa-film #find more at https://fontawesome.com/icons
-      - title: "Arial Photography"
+      - title: "Aerial Photography"
         desc: "Rump corned beef fatback, landjaeger pig prosciutto andouille kevin drumstick."
         icon: fas fa-camera-retro       
       - title: "Panoramas"
@@ -86,28 +86,8 @@ team:
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Eric Botello"
+        role: "Drone Pilot"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
