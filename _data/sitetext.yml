@@ -1,23 +1,23 @@
 header:
-    title: Drone Footage for Real Estate
-    text: "&nbsp;"
+    title: Real Estate Drone Footage
+    sub_title: Serving Virginia and North Carolina
     button: Tell Me More
     buttonlink: "#services"
 
 services:
     title: "Services"
-    text:
+    text: "Some of our available services include:"
     section: services
     list:
-      - title: "Video"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Images"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "Finished Product"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Arial Videography"
+        desc: "Tail prosciutto frankfurter pig, ham hock pork belly turkey ground round burgdoggen ham doner ribeye pork. Sirloin beef buffalo, cupim kielbasa frankfurter t-bone."
+        icon: fas fa-film #find more at https://fontawesome.com/icons
+      - title: "Arial Photography"
+        desc: "Rump corned beef fatback, landjaeger pig prosciutto andouille kevin drumstick."
+        icon: fas fa-camera-retro       
+      - title: "Panoramas"
+        desc: "Tail prosciutto frankfurter pig, ham hock pork belly turkey ground round burgdoggen ham doner ribeye pork. Sirloin beef buffalo, cupim kielbasa frankfurter t-bone."
+        icon: fas fa-images
 
 portfolio:
     title: "Portfolio"
