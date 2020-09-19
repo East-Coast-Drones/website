@@ -1,8 +1,9 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
+  title: Smith Mountain Lake
+  subtitle: Moneta, VA
   thumbnail: assets/img/portfolio/portfolio_1.png
+  external_link: https://www.youtube.com/watch?v=2yjjqq7yj5s
   
 #what displays when the item is clicked:
 title: Title
