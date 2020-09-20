@@ -115,12 +115,10 @@ contact:
 footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
+      - url: https://www.youtube.com/channel/UChvnUIQ_WEehRmtD9YNOQlg
         icon: "fab fa-youtube"  
-      - url: https://facebook.com
+      - url: https://www.facebook.com/East-Coast-Drones-106860717789009
         icon: "fab fa-facebook-f"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
