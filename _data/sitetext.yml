@@ -81,14 +81,14 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
+    title: "DRONE TEAM"
     text: "We'd love to work with you"
     subtext: ""
     section: team
     people:
       - name: "Eric Botello"
-        role: "Owner & Drone Pilot"
-        image: assets/img/team/500x500.jpg
+        role: "Owner, FAA-Certified Drone Pilot"
+        image: assets/img/team/team_1.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -97,8 +97,8 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Evan Botello"
-        role: "Technology"
-        image: assets/img/team/500x500.jpg
+        role: "Technology Ops"
+        image: assets/img/team/team_2.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
