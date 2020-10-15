@@ -10,14 +10,14 @@ services:
     section: services
     list:
       - title: "Aerial Videography"
-        desc: "Tail prosciutto frankfurter pig, ham hock pork belly turkey ground round burgdoggen ham doner ribeye pork. Sirloin beef buffalo, cupim kielbasa frankfurter t-bone."
+        desc: "Video footage for real estate, building or land surveys, and more."
         icon: fas fa-film #find more at https://fontawesome.com/icons
       - title: "Aerial Photography"
-        desc: "Rump corned beef fatback, landjaeger pig prosciutto andouille kevin drumstick."
+        desc: "Photography for inspections, special events & any other needs."
         icon: fas fa-camera-retro       
-      - title: "Panoramas"
-        desc: "Tail prosciutto frankfurter pig, ham hock pork belly turkey ground round burgdoggen ham doner ribeye pork. Sirloin beef buffalo, cupim kielbasa frankfurter t-bone."
-        icon: fas fa-images
+      - title: "Final Cut and Upload"
+        desc: "Professional video editing. Uploaded to your platform of choice. Exports to any medium or format."
+        icon: fas fa-upload
 
 portfolio:
     title: "Portfolio"
@@ -109,7 +109,7 @@ team:
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Our phone number is (540) 339-7668"
     section: contact
     
 footer:
