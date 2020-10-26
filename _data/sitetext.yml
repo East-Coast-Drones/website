@@ -114,6 +114,7 @@ contact:
     
 footer:
     legal: "Privacy Policy"
+    logo: assets/img/logo.jpg
     social:
       - url: https://www.youtube.com/channel/UChvnUIQ_WEehRmtD9YNOQlg
         icon: "fab fa-youtube"  
